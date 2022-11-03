@@ -1,0 +1,36 @@
+.color-body{
+    height: 100vh;
+    background-color: #f8f8f8;
+}
+.rectangle{
+    height: 600px;
+    border-radius: 15px;
+    background-color: #fff;
+    box-shadow: 1px 4px 4px 1px rgba(85, 85, 85, 0.25);
+    overflow: auto;
+}
+.dates-count{
+    color: #555555;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.btn-style{
+    width: 200px;
+    border-radius: 8px;
+    color: #fff;
+    background-color: #224f61;
+    border: none;
+    padding: 10px 0;
+}
+.input-style{
+    border-radius: 8px;
+    color: #000;
+    border: none;
+    padding: 10px;
+    outline: none;
+}
+.img-avatar{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
